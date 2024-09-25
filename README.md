@@ -115,4 +115,4 @@ npm run deploy
 
 Una vez termine de ejecutar ya puedes revisar tu pagina con el link que proporciona github:
 
-![](C:\Users\root\Desktop\card-profile-react-vite\src\assets\gh-page.png)
+![](./src/assets/gh-page.png)
